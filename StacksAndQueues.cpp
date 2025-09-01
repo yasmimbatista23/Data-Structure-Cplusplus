@@ -4,8 +4,6 @@
 #include <string>
 using namespace std;
 
-//I'm sorry I know I'm late but I've been feeling sick the last couple days, I hope you still give me some points :(
-
 
 int main() {
     stack<string> undoStack;  // Stores words typed
